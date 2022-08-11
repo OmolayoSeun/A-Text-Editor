@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newf"
+        android:icon="@drawable/ic_baseline_fiber_new"
+        android:title="@string/new_file"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/openf"
+        android:icon="@drawable/ic_baseline_folder_open"
+        android:title="@string/open_file"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sharef"
+        android:icon="@drawable/ic_baseline_share"
+        android:title="@string/Share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings"
+        android:title="@string/setting"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_baseline_exit_to_app"
+        android:title="@string/exit"
+        app:showAsAction="ifRoom" />
+</menu>

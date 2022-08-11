@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A Text Editor</string>
+    <string name="exit">Exit</string>
+    <string name="setting">Setting</string>
+    <string name="open_file">Open file</string>
+    <string name="new_file">New file</string>
+    <string name="text_goes_here"><![CDATA[<— Text goes here —>]]></string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="rename">rename</string>
+    <string name="untitled_txt">Untitled.txt</string>
+    <string name="Share">Share</string>
+</resources>
